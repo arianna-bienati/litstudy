@@ -1,8 +1,5 @@
 # Litstudy for dummies
 
-## What is litstudy?
-
-
 ## How to install and config?
 
 > [!warning]
