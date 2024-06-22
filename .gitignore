@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+myenv/
+lib/
+*.png
+Notes_mineo.txt
