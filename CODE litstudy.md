@@ -93,6 +93,4 @@ after that I could regularly `pip install litstudy` and `import litstudy` normal
 I wanted to use Scopus for retrieving potentially relevant papers for my literature review. I already had a Scopus API key with the university, however it did not cost me much to get the API... it was more challenging to set up the university VPN ahaha
 
 Supposing that you have a Scopus API and supposing that you're using a VPN or you are on site, then the pybliometrics [config page](https://pybliometrics.readthedocs.io/en/stable/configuration.html) really helped out. 
-I followed the instructions and `import pybliometrics`and then `pybliometrics.scopus.init()`. In vscode the procedure is guided: I think you need to enter your API key and then press enter another time and that's it! You can start doing your queries! 
-
-bau bau 
+I followed the instructions and `import pybliometrics`and then `pybliometrics.scopus.init()`. In vscode the procedure is guided: I think you need to enter your API key and then press enter another time and that's it! You can start doing your queries!
